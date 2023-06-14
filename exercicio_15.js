@@ -13,3 +13,7 @@ número aleatório entre 0 e 1 e, em seguida, multiplicá - lo por
 255 e arredondar para o número inteiro mais próximo.
 Tente resolver esse problema e implementar a lógica
 necessária para gerar uma cor aleatória e exibi - la na tela.*/
+
+function essaEuJaFiz() {
+    console.log('Essa eu já fiz, está em outro repósitorio!')
+}
